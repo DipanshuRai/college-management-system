@@ -3,9 +3,8 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-HTML%20|%20CSS%20|%20JS%20|%20PHP%20|%20MySQL-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
-A comprehensive College Management System designed to streamline college operations such as student management, attendance tracking, and complaint resolution.
+A comprehensive College Management System designed to streamline college operations such as student management, attendance tracking, late entry record, and complaint resolution.
 
 ---
 
@@ -54,7 +53,7 @@ Follow these steps to set up the project on your local machine:
    - Open XAMPP and start **Apache** and **MySQL**.
    - Navigate to [phpMyAdmin](http://localhost/phpmyadmin).
    - Import the database:
-     - Go to **Import** and select `.../dashboard/database.sql`.
+     - Go to **Import** and select `./config/database.sql`.
 4. Launch the project:
    - Open a browser and navigate to:
      ```plaintext
@@ -84,16 +83,7 @@ Follow these steps to set up the project on your local machine:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 - **Developer**: Dipanshu Rai  
 - **GitHub**: [@DipanshuRai](https://github.com/DipanshuRai)  
-- **Email**: dipanshu@example.com  
-
----
-
-Feel free to contribute to this project by opening issues or pull requests.
+- **Email**: dipanshurai933@gmail.com 
