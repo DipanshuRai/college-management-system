@@ -1,0 +1,3 @@
+Admin   - Dipanshu Rai - (User ID: a101, Pass: admin123)
+Faculty - Rishi Verma  - (User ID: f101, Pass: fac123)
+Student - Rahul Sharma - (User ID: 2201001, Pass: pass123)
